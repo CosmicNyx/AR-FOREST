@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.18181965, g: 0.22749263, b: 0.30742097, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1498,6 +1498,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1755960868}
+  - {fileID: 774768043}
   - {fileID: 347847043}
   - {fileID: 328281616}
   - {fileID: 1995474204}
@@ -1511,7 +1512,6 @@ Transform:
   - {fileID: 1140377889}
   - {fileID: 1615363227}
   - {fileID: 253225832}
-  - {fileID: 774768043}
   - {fileID: 864162360}
   - {fileID: 1623322172}
   - {fileID: 407317502}
